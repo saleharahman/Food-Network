@@ -27,3 +27,37 @@ section{
     font-weight:700;
     border-radius: 5px;
 }
+.item{
+    width: 30%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    border: 12px;
+}
+.lima{
+    width: 80%;
+padding: 25px;
+padding-bottom: 5px;
+}
+.item2{
+    width: 30%;
+   margin-top: 4%;
+   margin-left: 4%;
+   margin-right: 4%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    border: 12px;
+}
+.view{
+    display: flex;
+}
+.background-color{
+    background-color: indigo;
+    color: white;
+    border-radius: 20px;
+}
+.savar{
+    color: red;
+}
